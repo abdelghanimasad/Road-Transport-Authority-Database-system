@@ -27,5 +27,3 @@ Issues Encountered:
 
 There were foreign key constraint issues in some cases, which required careful handling of data insertion to avoid conflicts.
 The project involved resolving errors, ensuring proper data relationships, and querying the database for specific information.
-Current Task:
-The most recent task involves identifying and fixing a foreign key error in the Bus and Passenger tables to resolve insertion issues.
